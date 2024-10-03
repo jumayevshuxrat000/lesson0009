@@ -91,6 +91,7 @@ nav{
 .nav__btn:hover{
     background-color: #fff;
     color: #333;
+    border: solid #CF6F49 1px;
 }
 
 
