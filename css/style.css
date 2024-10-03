@@ -18,6 +18,7 @@ nav{
     padding: 16px;
     gap: 30px;
     align-items: center;
+    text-align: center;
 }
 
 .nav__logo{
@@ -81,6 +82,15 @@ nav{
     border: none;
     border-radius: 7px;
     cursor: pointer;
+}
+
+.nav__cart:hover{
+    background-color: #CF6F49;
+}
+
+.nav__btn:hover{
+    background-color: #fff;
+    color: #333;
 }
 
 
